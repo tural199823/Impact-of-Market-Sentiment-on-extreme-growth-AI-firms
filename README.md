@@ -36,17 +36,11 @@ Market sentiment is a **qualitative** measure of how investors feel about market
 1. **CEFD (Closed-End Fund Discount)**  
    - Measures the difference between a closed-end fund’s Net Asset Value (NAV) and its market price.  
    - Interpreted as a proxy for investor sentiment because discounts/premiums often reflect behavioral factors rather than intrinsic value.
-\[
-\text{CEFD}_t = \frac{\text{NAV}_t - \text{Price}_t}{\text{NAV}_t} \times 100\%
-\]
 
 2. **Share Turnover**  
    - Defined as the ratio of traded shares to total shares outstanding over a certain period.  
    - Reflects trading activity levels, which can serve as a barometer for market excitement or caution.
-     \[
-     \text{Share Turnover}_t = \frac{\text{Volume}_t}{\text{Shares Outstanding}_t}
-     \]
-
+     
 4. **VXN (CBOE Nasdaq Volatility Index)**  
    - A volatility index for the Nasdaq 100.  
    - Captures implied volatility and investor expectations for near-term market movements.
