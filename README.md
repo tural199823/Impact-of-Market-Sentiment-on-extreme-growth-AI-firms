@@ -18,13 +18,13 @@ Welcome to the repository for my thesis work! This README provides an overview o
 ## Overview & Motivation
 
 **Why This Thesis Matters**  
-This thesis investigates the intricate relationship between market sentiment and asset prices. Market sentiment, broadly defined as the overall attitude of investors toward a particular market or security, can often explain anomalies and short-term price fluctuations. By combining robust econometric techniques with advanced machine learning algorithms, this thesis aims to provide a new perspective on how market sentiment can be measured, modeled, and used in predictive frameworks.
+This thesis investigates the intricate relationship between market sentiment and asset prices. Market sentiment, broadly defined as the overall attitude of investors toward a particular market or security, can often explain anomalies and short-term price fluctuations. As Baker and Wurgler (2006) show, investor sentiment can influence asset prices, affecting returns and shaping overall market dynamics. By combining robust econometric techniques with advanced machine learning algorithms, this thesis aims to provide a new perspective on how market sentiment can be measured, modeled, and used in predictive frameworks.
 
-**Key Contributions**  
-- Development of comprehensive sentiment proxies.  
-- A novel empirical strategy that integrates both traditional and machine-learning methods.  
-- Thorough testing and validation using real-world financial data.  
-
+**Main Objectives**  
+- First, it seeks to adapt the Baker and Wurgler (2006) framework, which originally demonstrated that when beginning-of-period sentiment proxies are low, subsequent returns tend to be higher for small, young, high-volatility, unprofitable, non-dividend-paying, extreme growth, and distressed firms. Conversely, when sentiment is elevated, these categories of firms generally experience lower subsequent returns.
+- Second, this study extends the existing analysis by incorporating additional proxies for investor sentiment, including the NASDAQ-100 Volatility Index (VXN) and momentum factors. These indicators capture recent stock price movements and are expected to yield deeper insights into how volatility and momentum patterns interact with or amplify, sentiment-driven anomalies in pricing and performance.
+- Third, the study examines how these dynamics differ before and after the onset of the “AI hype” era, using the introduction of ChatGPT as a key temporal inflection point. The launch of ChatGPT represents a significant milestone in AI development, that dramatically heightened public and investor interest and directed substantial market attention and capital flows toward this technology class. By segmenting the analysis into pre- and post-ChatGPT periods, the study can more accurately capture shifts in investor sentiment and market dynamics. 
+   
 ---
 
 ## Understanding Market Sentiment
