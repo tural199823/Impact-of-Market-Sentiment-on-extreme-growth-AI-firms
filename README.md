@@ -1,4 +1,4 @@
-# Thesis Title (Replace with Your Actual Thesis Title)
+# The Impact of Market Sentiment on extreme growth AI firms.
 
 Welcome to the repository for my thesis work! This README provides an overview of the research topic, methodology, data, and instruments used. If you find this project helpful, please consider giving it a star. Thank you for visiting!
 
