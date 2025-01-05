@@ -8,7 +8,6 @@ Welcome to the repository for my thesis work! This README provides an overview o
 1. [Overview & Motivation](#overview--motivation)  
 2. [Understanding Market Sentiment](#understanding-market-sentiment)  
    - [Sentiment Proxies](#sentiment-proxies)  
-   - [Formulas](#formulas)  
 3. [Data Description](#data-description)  
 4. [Econometric Methodology](#econometric-methodology)  
 5. [Analytical Instruments & Tools](#analytical-instruments--tools)  
