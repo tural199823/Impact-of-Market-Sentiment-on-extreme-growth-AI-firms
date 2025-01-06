@@ -15,7 +15,7 @@ Welcome to the repository for my thesis work! This README provides an overview o
 
 ## Overview & Motivation
 
-**Why This Thesis Matters**  
+**Why This Thesis is important**  
 This thesis investigates the intricate relationship between market sentiment and asset prices. Market sentiment, broadly defined as the overall attitude of investors toward a particular market or security, can often explain anomalies and short-term price fluctuations. As Baker and Wurgler (2006) show, investor sentiment can influence asset prices, affecting returns and shaping overall market dynamics. By combining robust econometric techniques with advanced machine learning algorithms, this thesis aims to provide a new perspective on how market sentiment can be measured, modeled, and used in predictive frameworks.
 
 **Main Objectives**  
